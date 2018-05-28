@@ -1,0 +1,4 @@
+Node.js is an up and coming server side platform built from Javascript that will allow to create network 
+applications. Features of Node.js is that it is event driven while being asynchronous. So that means
+ the server never waits to return data. Node.js is related to javascript because it uses the 
+javascript language library and adds a runtime environment.
